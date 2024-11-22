@@ -1,9 +1,8 @@
 # soplo apps
 ----------
-[SAT] (https://www.sat.gob.mx/home)
-[SAT - Correo OWA] (https://hy.sat.gob.mx/owa/)
-----------
-----------
+[SAT](https://www.sat.gob.mx/home)
+[SAT - Correo OWA](https://hy.sat.gob.mx/owa/)
+
 
 [Hacer el curso en vídeo](https://kikopalomares.com/cursos/css)
 
