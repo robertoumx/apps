@@ -7,4 +7,6 @@ Como desarrollador web es importante tener un buen conocimiento en CSS. En este 
 
 ## 👋 Hola, mi nombre es Kiko Palomares
 
+[![GitHub Stars](https://img.shields.io/github/stars/kikopalomares?style=social)](https://github.com/KikoPalomares)
+
 [![Powered by Kiko Palomares](https://img.shields.io/badge/-Powered%20by%20Kiko%20Palomares-red)](https://kikopalomares.com/)
