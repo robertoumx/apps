@@ -29,7 +29,7 @@
 27. [SADCTI - SOPLO](http://99.70.32.254/index.asp)
 ## :.
 28. [AAD - Página de la AAD](http://10.228.11.9:83/)
-29. [AAD - Misión, Visión, Valores, Objetivo]( Aptitudes"](https://sp16.dssat.sat.gob.mx/agcti/AADCTI/_layouts/15/start.aspx#/)
+29. [AAD - Misión, Visión, Valores, Objetivo, Aptitudes](https://sp16.dssat.sat.gob.mx/agcti/AADCTI/_layouts/15/start.aspx#/)
 30. [AAD - Red de Colaboradores - Coordinación](https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/_layouts/15/start.aspx#/)
 31. [AAD - Red de Colaboradores - Directorio de Integrantes](https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/_layouts/15/start.aspx#/Lists/Directorio%20de%20Integrantes/AllItems.aspx)
 32. [AAD - Contratos de Gobierno - Directorio de Integrantes](https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/_layouts/15/start.aspx#/Lists/Directorio%20de%20MG/AllItems.aspx)
