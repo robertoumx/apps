@@ -5,6 +5,8 @@ Como desarrollador web es importante tener un buen conocimiento en CSS. En este 
 
 [Hacer el curso en vídeo](https://kikopalomares.com/cursos/css)
 
+ 3. [Objetos multimedia](./7_Casos_de_uso_de_flexbox/7.3_Objetos_multimedia/7.3_Objetos_multimedia.md)
+
 ## 👋 Hola, mi nombre es Kiko Palomares
 
 [![GitHub Stars](https://img.shields.io/github/stars/kikopalomares?style=social)](https://github.com/KikoPalomares)
