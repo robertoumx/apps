@@ -1,15 +1,39 @@
 # soplo apps
-----------
-[SAT](https://www.sat.gob.mx/home)
-[SAT - Correo OWA](https://hy.sat.gob.mx/owa/)
+1. [SAT] (https://www.sat.gob.mx/home)
+2. [SAT - Correo OWA] (https://hy.sat.gob.mx/owa/)
+3. [SAT - Intra SAT] (https://intrasat2.sat.gob.mx/)
+4. [SAT - MATCE Portal Empleado] (https://pecem.mat.sat.gob.mx/app/PE/faces/index.jsp)
+5. [SAT - Mesa de Servicio] (https://msi.sat.gob.mx:444/dwp)
+6. [SAT - Remedy 20.02] (https://msi.sat.gob.mx:447/arsys)
+7. [SAT - Solucion Integral] (http://portal.plataforma.sat.gob.mx/psp/psatpp/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST)
+8. [SAT - Solución Integral - Reseteo de Password] (https://servicios.plataforma.sat.gob.mx/IDMProv/portal/cn/GuestContainerPage/Welcome)
+9. [SAT - SUN Sistema Unico de Normatividad] (http://10.228.129.218/agj/index.php?option=com_content&view=article&id=5&Itemid=49)
+10. [AGRS - AGS] (http://humanos.ags.everest.sat.gob.mx:30600/psp/psatgj/EMPLOYEE/HRMS/?cmd=logout&cmd=login&errorCode=127&languageCd=ESP)
+11. [AGRS - EVAC] (https://www.cloudb.sat.gob.mx/efevacweb/)
+12. [AGRS - Inventario de Bienes Muebles] (http://finanzas.ags.everest.sat.gob.mx:30300/psp/psatgk/EMPLOYEE/ERP/c/FO_OPEN_RES_REQ.SAT_CON_AUTO_CP.GBL)
+13. [AGRS - Viaticos y Vehículos] (http://finanzas.ags.everest.sat.gob.mx:30300/psp/psatgk/?cmd=login&languageCd=ESP)
+14. [ADUANA - Comite de Facilitación Aduanera COFA] (http://10.228.128.82/aga/index.php/disposiciones-complementarias/2014-01-07-18-11-31)
+15. [ADUANA - Correo Office.com] (https://www.office.com)
+16. [ADUANA - Directorio Teléfonico Aduana Puebla] (http://99.70.32.253/DirectorioAduana.asp)
+17. [ADUANA - LIGIE (Sexta Enmienda) DOF-01-07-2020] (https://www.snice.gob.mx/cs/avi/snice/ligie.2020.html)
+18. [ADUANA - OMA Manuales definitivos y preliminares] (http://omawww.sat.gob.mx/aduanasPortal/Paginas/index.html#!/manuales_definitivos_y_preliminares)
+19. [ADUANA - OMA Portal de Servicios de Aduana] (http://omawww.sat.gob.mx/aduanasPortal/Paginas/index.html#!/)
+20. [ADUANA - SISA] (https://auth.siat.sat.gob.mx/nidp/idff/sso?id=pe-contrasena&sid=0&option=credential&sid=0&target=https%3A//serviciosinternos.sat.gob.mx/sisaValidator.php)
+21. [ADUANA - Sistema Integral de Información de Comercio Exterior] (http://www.siicex.gob.mx/portalSiicex/)
+22. [SADCTI - Guías de uso Equipo Lexmark] (https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/Servicos/SIDyF2/_layouts/15/start.aspx#/Documentos%20compartidos/Forms/AllItems.aspx?RootFolder=%2Fagcti%2FAADCTI%2FRdE%2FServicos%2FSIDyF2%2FDocumentos%20compartidos%2FSIDyF5%2FGu%C3%Adas%20de%20uso%20de%20equipos%20SIDYF%205&FolderCTID=0x0120006DE4A91D3FDA804CB7E697467F5DB444&View=%7B8CECD784%2D4340%2D4FB6%2D84FA%2D22990CF02283%7D)
+23. [SADCTI - Reset de Password Cuentas de Dominio DSSAT] (https://aplicacioninterna.mat.sat.gob.mx/ssprAd/private/login)
+24. [SADCTI - Resguardo Extensiones de Telefonía] (https://portalsatfm.dssat.sat.gob.mx)
+25. [SADCTI - Resguardo Impresoras Lexmark CEPS] (https://inteligov.acerta.net/i/login)
+26. [SADCTI - Seizo] (http://99.90.40.152/valida.asp)
+27. [SADCTI - SOPLO] (http://99.70.32.254/index.asp)
 
+## :.
+28. [AAD - Página de la AAD] (http://10.228.11.9:83/)
+29. [AAD - Misión] ( Visión] ( Valores] ( Objetivo] ( Aptitudes"] (https://sp16.dssat.sat.gob.mx/agcti/AADCTI/_layouts/15/start.aspx#/)
+30. [AAD - Red de Colaboradores - Coordinación] (https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/_layouts/15/start.aspx#/)
+31. [AAD - Red de Colaboradores - Directorio de Integrantes] (https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/_layouts/15/start.aspx#/Lists/Directorio%20de%20Integrantes/AllItems.aspx)
+32. [AAD - Contratos de Gobierno - Directorio de Integrantes] (https://sp16.dssat.sat.gob.mx/agcti/AADCTI/RdE/_layouts/15/start.aspx#/Lists/Directorio%20de%20MG/AllItems.aspx)
+33. [AAD - Portal Aduana de Puebla] (http://10.228.11.9:85/)
+34. [AAD - <b>Registro de Asistencia</b>] (http://10.228.11.6:8082/Asistencia)
+35. [AAD - Registro de Asistencia alterno] (http://99.13.24.85:8086/Asistencia)
 
-[Hacer el curso en vídeo](https://kikopalomares.com/cursos/css)
-
- 3. [Objetos multimedia](./7_Casos_de_uso_de_flexbox/7.3_Objetos_multimedia/7.3_Objetos_multimedia.md)
-
-## 👋 Hola, mi nombre es Kiko Palomares
-
-[![GitHub Stars](https://img.shields.io/github/stars/kikopalomares?style=social)](https://github.com/KikoPalomares)
-
-[![Powered by Kiko Palomares](https://img.shields.io/badge/-Powered%20by%20Kiko%20Palomares-red)](https://kikopalomares.com/)
