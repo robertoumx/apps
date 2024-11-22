@@ -4,4 +4,7 @@ Como desarrollador web es importante tener un buen conocimiento en CSS. En este 
 ----------
 
 [Hacer el curso en vídeo](https://kikopalomares.com/cursos/css)
+
+## 👋 Hola, mi nombre es Kiko Palomares
+
 [![Powered by Kiko Palomares](https://img.shields.io/badge/-Powered%20by%20Kiko%20Palomares-red)](https://kikopalomares.com/)
