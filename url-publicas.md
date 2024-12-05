@@ -1,9 +1,9 @@
 ## Bancos
 1. [BBVA - Bancomer](https://www.bbva.mx/)
-2. [HSBC - México](https://www.hsbc.com.mx/)
-3. [Banamex - México](https://www.banamex.com/)
-4. [Inbursa](https://www.inbursa.com/Portal/?id_category=1)
-5. [Cetes Directo](https://www.cetesdirecto.com/sites/portal/inicio)
+1. [HSBC - México](https://www.hsbc.com.mx/)
+1. [Banamex - México](https://www.banamex.com/)
+1. [Inbursa](https://www.inbursa.com/Portal/?id_category=1)
+1. [Cetes Directo](https://www.cetesdirecto.com/sites/portal/inicio)
 
 ## Instituciones Publicas
 1. [SAT](https://www.sat.gob.mx/home)
