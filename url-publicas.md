@@ -1,4 +1,3 @@
-# url-publicas
 ## Bancos
 1. [BBVA - Bancomer](https://www.bbva.mx/)
 2. [HSBC - México](https://www.hsbc.com.mx/)
@@ -12,6 +11,10 @@
 ## Recursos web
 1. [Kiko Palomares](https://kikopalomares.com/)
 2. [Jonathan MirCha](https://jonmircha.com/)
-3. [Spotify](https://open.spotify.com/intl-es)
-4. [Amazon Music](https://music.amazon.com.mx/)
-5. [Amazon](https://www.amazon.com.mx/)
+3. [Pago de Fotomultas - Puebla](http://fotoinfraccion.puebla.gob.mx/Pagos/)
+4. [Revista RedAlyc](https://www.redalyc.org/home.oa)
+
+## Tiendas
+1. [Spotify](https://open.spotify.com/intl-es)
+2. [Amazon Music](https://music.amazon.com.mx/)
+3. [Amazon](https://www.amazon.com.mx/)
