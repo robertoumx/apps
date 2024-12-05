@@ -1,5 +1,4 @@
-# soplo apps
-## Índice de apps
+## soplo apps
 1. [SAT](https://www.sat.gob.mx/home)
 2. [SAT - Correo OWA](https://hy.sat.gob.mx/owa/)
 3. [SAT - Intra SAT](https://intrasat2.sat.gob.mx/)
@@ -90,7 +89,4 @@
 86. [Cursos SICAVI - UNAM](http://sicavisp.apps.funcionpublica.gob.mx/programas-de-capacitacion-organismos-autonomos/)
 87. [Oficina Virtual ISSSTE SINAVID](https://oficinavirtual.issste.gob.mx/)
 88. [OMA-Descarga de Consulta Remota Pedimentos](http://omawww.sat.gob.mx/aduanasPortal/Paginas/index.html#!/descargas)
-## :. COTIN
-1. [Pago de Fotomultas - Puebla](http://fotoinfraccion.puebla.gob.mx/Pagos/)
-2. [Revista RedAlyc](https://www.redalyc.org/home.oa)
-## ::.
+## :.
