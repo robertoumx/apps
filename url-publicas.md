@@ -9,6 +9,8 @@
 * [SAT](https://www.sat.gob.mx/home)
 
 ## Recursos web
+*[www.hithub.com](https://github.com/)
+* [Editor de Github](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Kiko Palomares](https://kikopalomares.com/)
 * [Jonathan MirCha](https://jonmircha.com/)
 * [Pago de Fotomultas - Puebla](http://fotoinfraccion.puebla.gob.mx/Pagos/)
