@@ -16,6 +16,7 @@
 * [Jonathan MirCha](https://jonmircha.com/)
 * [Pago de Fotomultas - Puebla](http://fotoinfraccion.puebla.gob.mx/Pagos/)
 * [Revista RedAlyc](https://www.redalyc.org/home.oa)
+* [Windows 11 claves genéricas](https://hipertextual.com/2025/01/activar-windows-11-claves-genericas#h-lista-de-claves-genericas-para-windows-11)
 
 ## Tiendas
 * [Spotify](https://open.spotify.com/intl-es)
